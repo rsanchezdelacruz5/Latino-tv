@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="VIVA Latino" group-title="Entretenimiento",VIVA Latino
+#EXTVLCOPT:network-caching=1000
+http://stream.mcquack.net/285/index.m3u8
+#EXTINF:-1 tvg-name="Acento TV" group-title="Noticias",Acento TV
+#EXTVLCOPT:http-referrer=https://acentotv01.streamprolive.com/i/cp/hls/player.html
+#EXTVLCOPT:network-caching=1000
+https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-name="Adrenalina Pura TV (720p)" group-title="Películas y series",Adrenalina Pura TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 tvg-name="Agricultura TV (1080p)" group-title="Entretenimiento",Agricultura TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC Series Latin America (1080p)" group-title="Películas y series",AMC Series Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1 tvg-name="America Estereo Guayaquil (360p)" group-title="Radio y música",America Estereo Guayaquil (360p)
+#EXTVLCOPT:network-caching=1000
+https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
+#EXTINF:-1 tvg-name="America Estereo Ibarra (720p)" group-title="Radio y música",America Estereo Ibarra (720p)
+#EXTVLCOPT:network-caching=1000
+https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
+#EXTINF:-1 tvg-name="America Estereo Quito (1080p)" group-title="Radio y música",America Estereo Quito (1080p)
+#EXTVLCOPT:network-caching=1000
+https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+#EXTINF:-1 tvg-name="America Paraguay" group-title="Entretenimiento",America Paraguay
+#EXTVLCOPT:network-caching=1000
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
+#EXTINF:-1 tvg-name="America Television (1080p)" group-title="Entretenimiento",America Television (1080p)
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/AMERICA-TV/index.m3u8
+#EXTINF:-1 tvg-name="America TeVe (1080p)" group-title="Entretenimiento",America TeVe (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 tvg-name="America TV (720p)" group-title="Entretenimiento",America TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-name="AMX Noticias (720p) [Not 24/7]" group-title="Noticias",AMX Noticias (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-name="AXN Latin America Andes (1080p)" group-title="Películas y series",AXN Latin America Andes (1080p)
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-name="AXN Latin America South" group-title="Películas y series",AXN Latin America South
+#EXTVLCOPT:network-caching=1000
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
+#EXTINF:-1 tvg-name="Az Corazon (720p)" group-title="Entretenimiento",Az Corazon (720p)
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca020/index.m3u8
+#EXTINF:-1 tvg-name="Az Mundo (1080p)" group-title="Entretenimiento",Az Mundo (1080p)
+#EXTVLCOPT:network-caching=1000
+http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
+#EXTINF:-1 tvg-name="AZA TV HD (1080p)" group-title="Entretenimiento",AZA TV HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Azteca Internacional (1080p)" group-title="Entretenimiento",Azteca Internacional (1080p)
+#EXTVLCOPT:network-caching=1000
+http://167.249.23.102:8000/play/a0a3/index.m3u8
+#EXTINF:-1 tvg-name="Azteca Uno (1080p)" group-title="Entretenimiento",Azteca Uno (1080p)
+#EXTVLCOPT:network-caching=1000
+http://38.44.109.41:8003/play/a033/index.m3u8
+#EXTINF:-1 tvg-name="BCN Gospel TV HD (720p)" group-title="Religioso",BCN Gospel TV HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Latin America" group-title="Infantil",Cartoon Network Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:network-caching=1000
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="Cartoonito Latin America (1080p)" group-title="Infantil",Cartoonito Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+http://45.173.12.70:8000/play/a0hh
+#EXTINF:-1 tvg-name="CBN Espanol (1080p)" group-title="Religioso",CBN Espanol (1080p)
+#EXTVLCOPT:network-caching=1000
+https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8
+#EXTINF:-1 tvg-name="BabyFirst Spanish (1080p)" group-title="Infantil",BabyFirst Spanish (1080p)
+#EXTVLCOPT:network-caching=1000
+http://168.196.127.137:6001/play/a06j/index.m3u8
+#EXTINF:-1 tvg-name="ESPN Latin America (1080p)" group-title="Deportes",ESPN Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel Latin America (1080p)" group-title="Documentales",Discovery Channel Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo Latin America (1080p)" group-title="Documentales",Discovery Turbo Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+http://38.134.250.110:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-name="Disney Jr. Latin America (1080p)" group-title="Infantil",Disney Jr. Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-name="HBO 2 Latin America HD (1080p)" group-title="Películas y series",HBO 2 Latin America HD (1080p)
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family Latin America (1080p)" group-title="Películas y series",HBO Family Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:6060/play/a00k/index.m3u8
+#EXTINF:-1 tvg-name="HBO Latin America (1080p)" group-title="Películas y series",HBO Latin America (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/HBO/playlist.m3u8
+#EXTINF:-1 tvg-name="HGTV Latin America (1080p)" group-title="Documentales",HGTV Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+http://38.87.224.19:2220/play/a01p/index.m3u8
+#EXTINF:-1 tvg-name="Hola! TV Latin America (1080p)" group-title="Entretenimiento",Hola! TV Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+http://15.204.246.24:8080/HOLATVHD/index.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery Latin America South" group-title="Documentales",Investigation Discovery Latin America South
+#EXTVLCOPT:network-caching=1000
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+#EXTINF:-1 tvg-name="Nick Jr. Latin America (1080p)" group-title="Infantil",Nick Jr. Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Latin America (1080p)" group-title="Infantil",Nickelodeon Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qm
+#EXTINF:-1 tvg-name="Star Channel Latin America South" group-title="Películas y series",Star Channel Latin America South
+#EXTVLCOPT:network-caching=1000
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+#EXTINF:-1 tvg-name="Revry LatinX (720p)" group-title="Entretenimiento",Revry LatinX (720p)
+#EXTVLCOPT:network-caching=1000
+https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Stingray Romance Latino (1080p)" group-title="Música",Stingray Romance Latino (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-name="Studio Universal Latin America Brazil (720p)" group-title="Películas y series",Studio Universal Latin America Brazil (720p)
+#EXTVLCOPT:network-caching=1000
+http://187.102.210.46/universo/index.m3u8
+#EXTINF:-1 tvg-name="Studio Universal Latin America Colombia (1080p)" group-title="Películas y series",Studio Universal Latin America Colombia (1080p)
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:2000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-name="Studio Universal Latin America South" group-title="Películas y series",Studio Universal Latin America South
+#EXTVLCOPT:network-caching=1000
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+#EXTINF:-1 tvg-name="TCM Latin America (1080p)" group-title="Películas y series",TCM Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+http://181.78.14.26:4000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-name="TNT Latin America (1080p)" group-title="Películas y series",TNT Latin America (1080p)
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:6060/play/a03i/index.m3u8
+#EXTINF:-1 tvg-name="XITE Siempre Latino (1080p)" group-title="Música",XITE Siempre Latino (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
