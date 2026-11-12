@@ -1,31 +1,27 @@
-# Latino TV HD
+# Latino TV
 
-Lista M3U personalizada con canales de Republica Dominicana, Puerto Rico, Venezuela, Colombia y Mexico.
+Lista M3U personalizada, construida a partir de los canales seleccionados por el usuario.
 
-## Lista
+## Lista principal
 
-Cuando el flujo automatico haya terminado, la lista publica estara disponible en:
+**URL para VLC, TiviMate y Fire TV:**
 
-https://raw.githubusercontent.com/rsanchezdelacruz5/Latino-tv/main/Latino-TV-HD.m3u
+https://raw.githubusercontent.com/rsanchezdelacruz5/Latino-tv/main/Latino-TV.m3u
 
-## Filtros
+## Contenido
 
-- Resolucion etiquetada: 720p, 1080p, 1440p, 2160p, 4K o UHD.
-- Categorias: noticias, deportes, peliculas, series, infantil, entretenimiento, animacion, familiar y comedia.
-- Se eliminan URLs duplicadas.
-- Se agrupan los canales por pais y categoria.
+- 46 canales seleccionados.
+- Categorías: noticias, deportes, películas y series, infantil, entretenimiento, documentales, música, radio y religión.
+- Se conservan las opciones especiales de reproducción de VLC que requieren algunos streams.
+- La lista se mantiene manualmente para evitar que un catálogo automático reemplace los canales seleccionados.
 
-El filtro es conservador: los canales que no indiquen explicitamente una resolucion HD/UHD en sus metadatos pueden quedar fuera aunque transmitan en alta definicion.
+## Cómo usarla
 
-## Actualizacion automatica
+- **VLC:** Medio > Abrir ubicación de red > pegar la URL de la lista.
+- **TiviMate:** Add Playlist > M3U Playlist > pegar la URL.
 
-GitHub Actions reconstruye la lista diariamente y tambien permite ejecutarla manualmente desde la pestana **Actions** del repositorio.
+## Mantenimiento
 
-## Uso
+Los canales se agregan o modifican en la lista principal después de la selección y revisión. La reproducción puede variar por disponibilidad, cambios del proveedor, geobloqueo o vencimiento de enlaces; que un canal haya funcionado previamente no garantiza disponibilidad permanente.
 
-- VLC: Medio > Abrir ubicacion de red y pegar el enlace Raw de arriba.
-- TiviMate: Add Playlist > M3U Playlist y pegar el mismo enlace.
-
-## Fuente y aviso
-
-Los datos se obtienen de las listas publicas del proyecto [iptv-org/iptv](https://github.com/iptv-org/iptv). Es un catalogo comunitario: los enlaces pueden cambiar o dejar de funcionar. Utiliza unicamente canales y streams cuya distribucion tengas autorizacion para recibir.
+Utiliza únicamente señales y enlaces cuya recepción y redistribución estén autorizadas.
