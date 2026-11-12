@@ -26,12 +26,12 @@ jobs:
 
       - name: Publicar cambios
         run: |
-          if git diff --quiet -- Latino-TV-HD.m3u; then
+          git add Latino-TV-HD.m3u
+          if git diff --cached --quiet; then
             echo "La lista no presenta cambios."
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add Latino-TV-HD.m3u
             git commit -m "Actualizar lista Latino TV HD"
             git push
           fi
