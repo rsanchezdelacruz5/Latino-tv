@@ -141,3 +141,92 @@ http://45.171.64.30:6060/play/a03i/index.m3u8
 #EXTINF:-1 tvg-name="XITE Siempre Latino (1080p)" group-title="Música",XITE Siempre Latino (1080p)
 #EXTVLCOPT:network-caching=1000
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+
+#EXTINF:-1 tvg-name="Canal 4 RD (1080p)" group-title="República Dominicana",Canal 4 RD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Digital 15 (1080p)" group-title="República Dominicana",Digital 15 (1080p)
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/15tv/index_pc.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
+#EXTVLCOPT:network-caching=1000
+https://live2.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telecentro RD (1080p)" group-title="República Dominicana",Telecentro RD (1080p)
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/13tv/index_pc.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
+#EXTVLCOPT:network-caching=1000
+https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 5 México (1080p)" group-title="México",Canal 5 México (1080p)
+#EXTVLCOPT:network-caching=1000
+http://45.181.87.106/CANAL5HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Las Estrellas México (1080p)" group-title="México",Las Estrellas México (1080p)
+#EXTVLCOPT:network-caching=1000
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal Once México (1080p)" group-title="México",Canal Once México (1080p)
+#EXTVLCOPT:network-caching=1000
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal Sur Andalucía (1080p)" group-title="España",Canal Sur Andalucía (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+
+#EXTINF:-1 tvg-name="La 1 UHD (2160p)" group-title="España",La 1 UHD (2160p)
+#EXTVLCOPT:network-caching=1000
+http://185.47.212.25:8080/tdp_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="La 2 España (720p)" group-title="España",La 2 España (720p)
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+
+#EXTINF:-1 tvg-name="Canal 13 Chile (1080p)" group-title="Chile",Canal 13 Chile (1080p)
+#EXTVLCOPT:network-caching=1000
+http://15.204.246.24:8080/Canal13HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Chilevisión (1080p)" group-title="Chile",Chilevisión (1080p)
+#EXTVLCOPT:network-caching=1000
+http://15.204.246.24:8080/CHVHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Mega Chile (1080p)" group-title="Chile",Mega Chile (1080p)
+#EXTVLCOPT:network-caching=1000
+http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-name="A24 Argentina (1080p)" group-title="Argentina",A24 Argentina (1080p)
+#EXTVLCOPT:network-caching=1000
+http://138.59.227.20:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-name="El Trece Argentina (1080p)" group-title="Argentina",El Trece Argentina (1080p)
+#EXTVLCOPT:http-referrer=https://vodgc.net
+#EXTVLCOPT:network-caching=1000
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-name="Telefe Argentina (1080p)" group-title="Argentina",Telefe Argentina (1080p)
+#EXTVLCOPT:network-caching=1000
+http://45.173.231.22:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal I Venezuela (1080p)" group-title="Venezuela",Canal I Venezuela (1080p)
+#EXTVLCOPT:network-caching=1000
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+
+#EXTINF:-1 tvg-name="Televen Venezuela (1080p)" group-title="Venezuela",Televen Venezuela (1080p)
+#EXTVLCOPT:network-caching=1000
+http://38.134.250.110:8000/play/a02i/index.m3u8
+
+#EXTINF:-1 tvg-name="Telesur HD (1080p)" group-title="Venezuela",Telesur HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Caracol TV Colombia (1080p)" group-title="Colombia",Caracol TV Colombia (1080p)
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a09v/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal RCN Colombia (1080p)" group-title="Colombia",Canal RCN Colombia (1080p)
+#EXTVLCOPT:network-caching=1000
+http://38.134.250.110:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-name="Señal Colombia (1080p)" group-title="Colombia",Señal Colombia (1080p)
+#EXTVLCOPT:network-caching=1000
+http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8
