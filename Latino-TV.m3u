@@ -429,3 +429,27 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
 #EXTINF:-1 tvg-name="Tooncast Argentina (720p)" group-title="Infantiles",Tooncast Argentina (720p)
 http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon en espanol" group-title="Infantiles",Nickelodeon en espanol
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon Clasico (720p)" group-title="Infantiles",Nickelodeon Clasico (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+
+#EXTINF:-1 tvg-name="CSI: Miami LatAm" group-title="Películas y series",CSI: Miami LatAm
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
+
+#EXTINF:-1 tvg-name="iCarly (United States) LatAm" group-title="Infantiles",iCarly (United States) LatAm
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+
+#EXTINF:-1 tvg-name="MacGyver (United States) LatAm" group-title="Películas y series",MacGyver (United States) LatAm
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+
+#EXTINF:-1 tvg-name="Disney XD (United States) (720p)" group-title="Infantiles",Disney XD (United States) (720p)
+#EXTVLCOPT:network-caching=1000
+http://89.187.179.148:826/1368/gXwiagaXda/1672
